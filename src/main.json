@@ -1,0 +1,37 @@
+
+
+{
+    "articles": [
+      {
+        "title": "Tech Company X Releases New Smartphone",
+        "content": "Tech Company X has unveiled its latest smartphone model...",
+        "sentiment": "positive",
+        "references": ["Tech Company X's Growth", "Competition in Tech Industry"]
+      },
+      {
+        "title": "Economic Downturn in the Manufacturing Sector",
+        "content": "The manufacturing sector is facing challenges due to economic downturn...",
+        "sentiment": "negative",
+        "references": ["Government Economic Policies", "Global Trade Impact"]
+      },
+      {
+        "title": "Environmental Conservation Efforts in Local Park",
+        "content": "Local residents are coming together to conserve the natural habitat in the park...",
+        "sentiment": "positive",
+        "references": ["Community Involvement in Conservation", "Local Biodiversity"]
+      },
+      {
+        "title": "Stock Market Volatility Continues",
+        "content": "Stock market experiences high volatility as investors react to economic news...",
+        "sentiment": "neutral",
+        "references": ["Investor Strategies", "Economic Indicators"]
+      },
+      {
+        "title": "Earthquake in Delhi",
+        "content": "100 Casualities with 200 injured till now",
+        "sentiment": "negative",
+        "references":["BBC news","Times of India"]
+          }
+    ]
+  }
+  

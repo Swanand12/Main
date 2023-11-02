@@ -6,7 +6,7 @@
         "title": "Tech Company X Releases New Smartphone",
         "content": "Tech Company X has unveiled its latest smartphone model...",
         "sentiment": "positive",
-        "references": ["Tech Company X's Growth", "Competition in Tech Industry"]
+        "references": ["CNN"]
       },
       {
         "title": "Economic Downturn in the Manufacturing Sector",
@@ -30,7 +30,7 @@
         "title": "Earthquake in Delhi",
         "content": "100 Casualities with 200 injured till now",
         "sentiment": "negative",
-        "references":["BBC news","Times of India"]
+        "references":["Times of India"]
           }
     ]
   }
